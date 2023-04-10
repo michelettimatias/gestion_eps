@@ -1,5 +1,5 @@
 import './App.css';
-import logo_molinos from './src/images/logo-molinos.svg';
+import logo_molinos from '../src/images/logo-molinos.svg';
 import TrH from './components/TrH';
 import Tr from './components/Tr';
 import eps from "./sku.json";
