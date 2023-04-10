@@ -6,7 +6,6 @@ import Tr from './components/Tr';
 import eps from "./sku.json";
 import insumos from "./insumos.json";
 import { useState, useEffect } from 'react';
-import TablaEtiquetado from './components/TablaEtiquetado';
 
 function App() {
 
