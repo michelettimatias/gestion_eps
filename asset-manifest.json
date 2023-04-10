@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/michelettimatias/gestion_eps/static/css/main.4e595eed.css",
-    "main.js": "/michelettimatias/gestion_eps/static/js/main.78a051e6.js",
+    "main.js": "/michelettimatias/gestion_eps/static/js/main.a95c196a.js",
     "static/media/84014 BJ BLEND MAL-CBS 6X750 GPA.jpg": "/michelettimatias/gestion_eps/static/media/84014 BJ BLEND MAL-CBS 6X750 GPA.510b6d48c26f5bc63066.jpg",
     "static/media/84014.jpg": "/michelettimatias/gestion_eps/static/media/84014.fc807cad386258d390fc.jpg",
     "static/media/20219530.jpg": "/michelettimatias/gestion_eps/static/media/20219530.3fc84ed198667a4ec593.jpg",
@@ -15,10 +15,10 @@
     "static/media/logo-molinos.svg": "/michelettimatias/gestion_eps/static/media/logo-molinos.7a34a53dcd450bf927b049576c2c5333.svg",
     "index.html": "/michelettimatias/gestion_eps/index.html",
     "main.4e595eed.css.map": "/michelettimatias/gestion_eps/static/css/main.4e595eed.css.map",
-    "main.78a051e6.js.map": "/michelettimatias/gestion_eps/static/js/main.78a051e6.js.map"
+    "main.a95c196a.js.map": "/michelettimatias/gestion_eps/static/js/main.a95c196a.js.map"
   },
   "entrypoints": [
     "static/css/main.4e595eed.css",
-    "static/js/main.78a051e6.js"
+    "static/js/main.a95c196a.js"
   ]
 }
