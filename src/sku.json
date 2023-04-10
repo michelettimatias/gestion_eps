@@ -1,0 +1,122 @@
+[
+	{
+		"id":1,
+		"sku":84014,
+		"sku_desc": "BJ MAL-CBS 6X750 GPA",
+		"date": "22/07/2022",
+		"version": 1,
+		"familia":"BENJAMÍN",
+		"varietal":"MALBEC-CABERNET",
+		"presentacion":"6x750",
+		"importador":"GPA",
+		"pais":"BRASIL",
+		"itf":"17790070825725",
+		"materials":[
+			{
+				"insumo":"CORTE",
+				"codigo":"COR4041BJ"
+			},
+			{
+				"insumo":"BOTELLA",
+				"codigo":20133919
+			},
+			{
+				"insumo":"CORCHO",
+				"codigo":20139608
+			},
+			{
+				"insumo":"CÁPSULA",
+				"codigo":20139833
+			},
+			{
+				"insumo":"CUCARDA",
+				"codigo":20140249
+			},
+			{
+				"insumo":"FRENTE",
+				"codigo":20140243
+			},
+			{
+				"insumo":"DORSO",
+				"codigo":20140537
+			},
+			{
+				"insumo":"CAJA",
+				"codigo":20219530
+			}
+		],
+		"inkjet":{
+		},
+		"observaciones":"ATENCIÓN: Lote productivo va sin la \"L\"",
+		"color_observacion":"orange",
+		"altura_frente":68,
+		"altura_dorso":69.5,
+		"pallet":"Arlog",
+		"norma_palletizado":"NOP-808",
+		"cajas_camada":28,
+		"camadas":5,
+		"esquineros":true
+	},
+	{
+		"id":2,
+		"sku":76006,
+		"sku_desc": "NS CAB SAUV 6X750",
+		"date": "22/07/2023",
+		"version": 3,
+		"familia":"NIETO SENETINER",
+		"varietal":"CABERNET SAUVIGNON",
+		"presentacion":"6x750",
+		"importador":"ML",
+		"pais":"ARGENTINA",
+		"itf":"17790070760057",
+		"materials":[
+			{
+				"insumo":"CORTE",
+				"codigo":"COR4041BJ"
+			},
+			{
+				"insumo":"BOTELLA",
+				"codigo":20133919
+			},
+			{
+				"insumo":"CORCHO",
+				"codigo":20139608
+			},
+			{
+				"insumo":"CÁPSULA",
+				"codigo":20139833
+			},
+			{
+				"insumo":"CUCARDA",
+				"codigo":20140249
+			},
+			{
+				"insumo":"FRENTE",
+				"codigo":20140243
+			},
+			{
+				"insumo":"DORSO",
+				"codigo":20140538
+			},
+			{
+				"insumo":"SEPARADOR",
+				"codigo":20140506
+			},
+			{
+				"insumo":"CAJA",
+				"codigo":20219525
+			}
+		],
+		"inkjet":{
+		},
+		"observaciones":"Atención: Lote productivo va sin \"CV\"",
+		"color_observacion":"orange",
+		"altura_frente":42,
+		"altura_dorso":48,
+		"pallet":"Arlog",
+		"norma_palletizado":"NOP-808",
+		"cajas_camada":28,
+		"camadas":5,
+		"esquineros":true
+	}
+]

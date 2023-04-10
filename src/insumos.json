@@ -1,0 +1,62 @@
+[
+	{
+		"codigo":"COR4041BJ",
+		"desc_insumo":"Corte Blend Malbec-Cabernet Benjamín N4",
+		"loyal":"N/A"
+	},
+	{
+		"codigo":"20133919",
+		"desc_insumo":"BOTELLA BURDEOS NEVADA VDE 750 B/STD S/P",
+		"loyal":"ME-3027"
+	},
+	{
+		"codigo":"20139608",
+		"desc_insumo":"TAPÓN SINTÉTICO MEND-ARG D1.1 22X38 MM",
+		"loyal":"ME-2575"
+	},
+	{
+		"codigo":"20139833",
+		"desc_insumo":"CÁPSULA COMPLEX NS D7.1 NEGRA 28,8X55",
+		"loyal":"ME-2580"
+	},
+	{
+		"codigo":"20140243",
+		"desc_insumo":"ET AUT ME BN D7.1 MAL CAB 750 GRAND CRU",
+		"loyal":"ME-3054"
+	},
+	{
+		"codigo":"20140249",
+		"desc_insumo":"CUCARDA 92PTS JAMES SUCKLING",
+		"loyal":"ME-3054"
+	},
+	{
+		"codigo":"20140537",
+		"desc_insumo":"CET AUT ME BN D7.1 MAL CAB 750 GPA",
+		"loyal":"ME-3054"
+	},
+	{
+		"codigo":"20219530",
+		"desc_insumo":"CJ COR KRAFT BNTTO-BCO D7.1 NEV 6X75 GEN",
+		"loyal":"ME-3605"
+	},
+	{
+		"codigo":"20140506",
+		"desc_insumo":"SEPARADOR GEN FIBRA SOLIDA 6X750",
+		"loyal":"ME-3406"
+	},
+	{
+		"codigo":"20140538",
+		"desc_insumo":"CET AUT MI NS D7.4 MAL 750",
+		"loyal":"ME-3054"
+	},
+	{
+		"codigo":"20219525",
+		"desc_insumo":"CJ KRAFT IE NS D7.1 6X750 SEP-FS GEN",
+		"loyal":"ME-3054"
+	},
+	{
+		"codigo":"20217104",
+		"desc_insumo":"FILM STRETCH AUTOMÁTICO",
+		"loyal":"ME-3054"
+	}
+]
