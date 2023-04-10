@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/michelettimatias/gestion_eps/static/css/main.4e595eed.css",
-    "main.js": "/michelettimatias/gestion_eps/static/js/main.a95c196a.js",
-    "static/media/84014 BJ BLEND MAL-CBS 6X750 GPA.jpg": "/michelettimatias/gestion_eps/static/media/84014 BJ BLEND MAL-CBS 6X750 GPA.510b6d48c26f5bc63066.jpg",
-    "static/media/84014.jpg": "/michelettimatias/gestion_eps/static/media/84014.fc807cad386258d390fc.jpg",
-    "static/media/20219530.jpg": "/michelettimatias/gestion_eps/static/media/20219530.3fc84ed198667a4ec593.jpg",
-    "static/media/20219525.jpg": "/michelettimatias/gestion_eps/static/media/20219525.be043f2908c31ceed63f.jpg",
-    "static/media/palletizado.jpg": "/michelettimatias/gestion_eps/static/media/palletizado.d19f3aaee63a241f92d9.jpg",
-    "static/media/76006.jpg": "/michelettimatias/gestion_eps/static/media/76006.eb010bd9b330ba90574e.jpg",
-    "static/media/20140538.jpg": "/michelettimatias/gestion_eps/static/media/20140538.f0f8d62bc70de66f5942.jpg",
-    "static/media/20140537.jpg": "/michelettimatias/gestion_eps/static/media/20140537.89a8f6bb017299f22fb2.jpg",
-    "static/media/17790070760057.jpg": "/michelettimatias/gestion_eps/static/media/17790070760057.47986981a76fd18763a2.jpg",
-    "static/media/17790070825725.jpg": "/michelettimatias/gestion_eps/static/media/17790070825725.2610c8ff2a130a87b8d6.jpg",
-    "static/media/logo-molinos.svg": "/michelettimatias/gestion_eps/static/media/logo-molinos.7a34a53dcd450bf927b049576c2c5333.svg",
-    "index.html": "/michelettimatias/gestion_eps/index.html",
-    "main.4e595eed.css.map": "/michelettimatias/gestion_eps/static/css/main.4e595eed.css.map",
-    "main.a95c196a.js.map": "/michelettimatias/gestion_eps/static/js/main.a95c196a.js.map"
+    "main.css": "/gestion_eps/static/css/main.4e595eed.css",
+    "main.js": "/gestion_eps/static/js/main.a470a1b2.js",
+    "static/media/84014 BJ BLEND MAL-CBS 6X750 GPA.jpg": "/gestion_eps/static/media/84014 BJ BLEND MAL-CBS 6X750 GPA.510b6d48c26f5bc63066.jpg",
+    "static/media/84014.jpg": "/gestion_eps/static/media/84014.fc807cad386258d390fc.jpg",
+    "static/media/20219530.jpg": "/gestion_eps/static/media/20219530.3fc84ed198667a4ec593.jpg",
+    "static/media/20219525.jpg": "/gestion_eps/static/media/20219525.be043f2908c31ceed63f.jpg",
+    "static/media/palletizado.jpg": "/gestion_eps/static/media/palletizado.d19f3aaee63a241f92d9.jpg",
+    "static/media/76006.jpg": "/gestion_eps/static/media/76006.eb010bd9b330ba90574e.jpg",
+    "static/media/20140538.jpg": "/gestion_eps/static/media/20140538.f0f8d62bc70de66f5942.jpg",
+    "static/media/20140537.jpg": "/gestion_eps/static/media/20140537.89a8f6bb017299f22fb2.jpg",
+    "static/media/17790070760057.jpg": "/gestion_eps/static/media/17790070760057.47986981a76fd18763a2.jpg",
+    "static/media/17790070825725.jpg": "/gestion_eps/static/media/17790070825725.2610c8ff2a130a87b8d6.jpg",
+    "static/media/logo-molinos.svg": "/gestion_eps/static/media/logo-molinos.7a34a53dcd450bf927b049576c2c5333.svg",
+    "index.html": "/gestion_eps/index.html",
+    "main.4e595eed.css.map": "/gestion_eps/static/css/main.4e595eed.css.map",
+    "main.a470a1b2.js.map": "/gestion_eps/static/js/main.a470a1b2.js.map"
   },
   "entrypoints": [
     "static/css/main.4e595eed.css",
-    "static/js/main.a95c196a.js"
+    "static/js/main.a470a1b2.js"
   ]
 }
