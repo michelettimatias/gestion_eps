@@ -1,6 +1,5 @@
 import './App.css';
-import logo_molinos from '../src/images/logo-molinos.svg';
-import caja from '../src/images/20219530.jpg';
+import logo_molinos from './src/images/logo-molinos.svg';
 import TrH from './components/TrH';
 import Tr from './components/Tr';
 import eps from "./sku.json";
